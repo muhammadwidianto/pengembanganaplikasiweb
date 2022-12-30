@@ -16,21 +16,21 @@ https://youtu.be/zR1ctt0Ufu0
 | 5 | PostgreSQL installation | ![MySQL installation](https://user-images.githubusercontent.com/82139022/209857791-34f57cec-da10-4a80-b959-236e1beadb0b.png) |
 | 6 | DBeaver installation & DB connection |![aaaa](https://user-images.githubusercontent.com/82139022/209858519-2c36587b-5478-4878-b2ce-a53f8db5b93e.png) |
 | 7 | MobaXterm installation & SSH connection | ![MobaXterm installation   SSH connection](https://user-images.githubusercontent.com/82139022/209857483-dd553e85-30a6-45b0-bc49-8d55570aba08.png) |
-| 8 | NodeJS & NPM installation, operation & hello world |  |
-| 9 | Linux server operation |  |
-| 10 | Apache web server installation & operation |  |
-| 11 | Cpanel operation |  |
-| 12 | Domain registration |  |
-| 13 | HTML Responsive Layout with Media Query & Flexbox |  |
+| 8 | NodeJS & NPM installation, operation & hello world | ![NodeJS   NPM installation](https://user-images.githubusercontent.com/82139022/210085198-12cfc321-abee-4504-8688-18b0efe39e2e.png) |
+| 9 | Linux server operation | ![linux server operation](https://user-images.githubusercontent.com/82139022/210084023-48b57d08-7d1d-4fb7-94ec-8c5b98c3ec0b.png) |
+| 10 | Apache web server installation & operation | ![apache operations](https://user-images.githubusercontent.com/82139022/210084263-44f2d18c-1acb-48d5-80d8-79c20a262012.png) |
+| 11 | Cpanel operation | ![Cpanel operation](https://user-images.githubusercontent.com/82139022/210084476-b820c869-4806-4d71-beb1-a4b0329ac72d.png) |
+| 12 | Domain registration | ![Domain registration](https://user-images.githubusercontent.com/82139022/210084508-b2811716-2167-4fb9-a588-828b1d967d7a.png) |
+| 13 | HTML Responsive Layout with Media Query & Flexbox | ![HTML Responsive Layout with Media Query   Flexbox](https://user-images.githubusercontent.com/82139022/210084488-4e25371c-13af-4789-ba19-1628e81aa415.png) |
 | 14 | Javascript Data Transformation |  |
 | 15 | Browser API - Event Handling, Local Storage, Element manipulation | |
 | 16 | HTTP GET & POST using Form Action and Fetch API |  |
 | 17 | PHP DB - Dynamic Web Page |  |
 | 18 | PHP DB - Web Service |  |
 | 19 | OOP-based PHP Project using Composer | |
-| 20 | Deploy PHP Project to Cpanel | |
-| 21 | HTML Responsive Layout with Bootstrap |  |
+| 20 | Deploy PHP Project to Cpanel | ![Deploy PHP Project to Cpanel](https://user-images.githubusercontent.com/82139022/210085378-04ab7b20-03de-46d5-8085-42384a7d856c.png) |
+| 21 | HTML Responsive Layout with Bootstrap | ![HTML Responsive Layout with Bootstrap](https://user-images.githubusercontent.com/82139022/210085489-4ea5e46c-07d6-4ded-b571-ccc22f7bc2c2.png) |
 | 22 | Single Page App with React & React-router |  |
-| 23 | Dynamic Web Page using Laravel |  |
+| 23 | Dynamic Web Page using Laravel | ![Dynamic Web Page using Laravel](https://user-images.githubusercontent.com/82139022/210085553-925dd90c-be86-41ca-88fb-43b0377f4cd5.png) |
 | 24 | Web Service using Slim | |
 | 25 | News Site using Wordpress |  |
