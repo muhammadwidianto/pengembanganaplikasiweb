@@ -30,7 +30,7 @@ https://youtu.be/zR1ctt0Ufu0
 | 19 | OOP-based PHP Project using Composer | |
 | 20 | Deploy PHP Project to Cpanel | ![Deploy PHP Project to Cpanel](https://user-images.githubusercontent.com/82139022/210085378-04ab7b20-03de-46d5-8085-42384a7d856c.png) |
 | 21 | HTML Responsive Layout with Bootstrap | ![HTML Responsive Layout with Bootstrap](https://user-images.githubusercontent.com/82139022/210085489-4ea5e46c-07d6-4ded-b571-ccc22f7bc2c2.png) |
-| 22 | Single Page App with React & React-router |  |
+| 22 | Single Page App with React & React-router | ![Single Page App with React   React-router](https://user-images.githubusercontent.com/82139022/210085872-6ee1cc91-562f-49b3-aded-253fb12f4e37.png) |
 | 23 | Dynamic Web Page using Laravel | ![Dynamic Web Page using Laravel](https://user-images.githubusercontent.com/82139022/210085553-925dd90c-be86-41ca-88fb-43b0377f4cd5.png) |
 | 24 | Web Service using Slim | |
-| 25 | News Site using Wordpress |  |
+| 25 | News Site using Wordpress | ![News Site using Wordpress](https://user-images.githubusercontent.com/82139022/210085859-0694a9e8-fb06-44a5-9899-7d815cc022d0.png) |
