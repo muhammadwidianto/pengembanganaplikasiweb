@@ -22,11 +22,11 @@ https://youtu.be/zR1ctt0Ufu0
 | 11 | Cpanel operation | ![Cpanel operation](https://user-images.githubusercontent.com/82139022/210084476-b820c869-4806-4d71-beb1-a4b0329ac72d.png) |
 | 12 | Domain registration | ![Domain registration](https://user-images.githubusercontent.com/82139022/210084508-b2811716-2167-4fb9-a588-828b1d967d7a.png) |
 | 13 | HTML Responsive Layout with Media Query & Flexbox | ![HTML Responsive Layout with Media Query   Flexbox](https://user-images.githubusercontent.com/82139022/210084488-4e25371c-13af-4789-ba19-1628e81aa415.png) |
-| 14 | Javascript Data Transformation |  |
-| 15 | Browser API - Event Handling, Local Storage, Element manipulation | |
-| 16 | HTTP GET & POST using Form Action and Fetch API |  |
-| 17 | PHP DB - Dynamic Web Page |  |
-| 18 | PHP DB - Web Service |  |
+| 14 | Javascript Data Transformation | ![Javascript](https://user-images.githubusercontent.com/82139022/210138470-f9342ff2-8ad1-4bc9-97ac-649323a137d6.png) |
+| 15 | Browser API - Event Handling, Local Storage, Element manipulation | ![Browser API - Event Handling, Local Storage, Element manipulation](https://user-images.githubusercontent.com/82139022/210138496-f74ed76d-053c-44eb-9f42-03ba7cf3a65a.png) |
+| 16 | HTTP GET & POST using Form Action and Fetch API | ![HTTP GET   POST using Form Action and Fetch API](https://user-images.githubusercontent.com/82139022/210138003-51b31b0d-ab9e-476b-aac5-1a42e9986313.png) |
+| 17 | PHP DB - Dynamic Web Page | ![PHP DB - Dynamic Web Page](https://user-images.githubusercontent.com/82139022/210138241-187a9b0b-c93d-4dd1-bcf2-6c27a3661f45.png) |
+| 18 | PHP DB - Web Service | ![PHP DB Service](https://user-images.githubusercontent.com/82139022/210138081-168e6820-b1e8-4c25-bd84-7cabfe01e186.png) |
 | 19 | OOP-based PHP Project using Composer | |
 | 20 | Deploy PHP Project to Cpanel | ![Deploy PHP Project to Cpanel](https://user-images.githubusercontent.com/82139022/210085378-04ab7b20-03de-46d5-8085-42384a7d856c.png) |
 | 21 | HTML Responsive Layout with Bootstrap | ![HTML Responsive Layout with Bootstrap](https://user-images.githubusercontent.com/82139022/210085489-4ea5e46c-07d6-4ded-b571-ccc22f7bc2c2.png) |
